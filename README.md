@@ -1,4 +1,7 @@
-# Steps to tailwind
+# Pracice
 
-1. `npm install -D tailwindcss postcss autoprefixer`
-2. `npx tailwindcss init -p`
+1. CAO
+
+2. iskelti sita i atsikra komponenta ![](assets/2024-01-31-11-55-55.png)
+
+3. (sunkesnne) padaryti kad eitu editinti todo ![](assets/2024-01-31-12-00-22.png)
